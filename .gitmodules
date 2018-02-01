@@ -1,0 +1,3 @@
+[submodule "libraries/pomdpy"]
+	path = libraries/pomdpy
+	url = https://github.com/pemami4911/POMDPy.git
