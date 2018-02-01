@@ -1,10 +1,10 @@
 ## Submodules and libraries
-*NOTES:*
+**NOTES:**
 - To add submodule, make sure your pwd is pomdp-teaching and then: 
-    - git submodule add https://github.com/<user>/repo libraries
+    - git submodule add *url-to-git-repo* libraries
 - To initiate use of and update submodules: 
     - git submodule update --init --recursive
 - To clone this repo and retain submodules: 
-    - git clone --recursive <project url>
+    - git clone --recursive *project-url*
 
 See https://github.com/blog/2104-working-with-submodules for more detail
