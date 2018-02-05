@@ -2,8 +2,10 @@ from __future__ import print_function
 from builtins import str
 from pomdpy.discrete_pomdp import DiscreteState
 
+# ADAPTED FROM https://github.com/pemami4911/POMDPy TIGER EXAMPLE
+# pam osborn popp . pamop@nyu.edu . feb 2018
 
-class TigerState(DiscreteState):
+class MazeState(DiscreteState):
     """
     Enumerated state for the Tiger POMDP
 
